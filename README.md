@@ -43,7 +43,6 @@ Integration of diverse omics data is crucial for extracting biologically relevan
 The main objective of this study is to predict the survival outcomes of breast cancer patients by leveraging multi-omics data. By developing a computational ML pipeline using Support Vector Machine (SVM) and Partial Least Squares (PLS) algorithms, we aim to overcome the limitations of univariate feature selection criteria. The pipeline incorporates latent variables obtained through multivariate dimension reduction methods, allowing us to investigate background genetic networks and identify potential hub genes.
 
 ## Model Architecture
-<br>
 ![Alt text](https://github.com/Kunaltembhare003/ConnectOME/blob/main/image/Model_Architecture.jpg)
 
 
