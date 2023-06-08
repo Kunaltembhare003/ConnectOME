@@ -23,7 +23,7 @@ To use the ML model and run the Flask application locally, follow these steps:
    * source virtualenv_name/bin/activate
 4. Run command in terminal.
     * pip install -r requirements.txt
-    * export FLASK_APP="ConnetOME.py"
+    * export FLASK_APP="ConnectOME.py"
     * flask run
 5. Open the provided link in your preferred web browser.
 
