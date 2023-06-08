@@ -11,15 +11,21 @@ This repository contains a machine learning (ML) pipeline for the integration of
 - [Model Architecture](#Model-Architecture)
 
 ## Usage
+### for Linux 
 To use the ML model and run the Flask application locally, follow these steps:
 
 1. Download the GitHub repository to your local machine.
-1. Create and Activate a new python environment. 
-1. Run command in terminal.
+2. Change the working directory to the downloaded repository.
+3. Create and Activate a new python environment.
+   * pip install virtualenv
+   * virtualenv ConnectOME
+   * virtualenv -p /usr/bin/python3 virtualenv_name
+   * source virtualenv_name/bin/activate
+4. Run command in terminal.
     * pip install -r requirements.txt
     * export FLASK_APP="ConnetOME.py"
     * flask run
-1. Open the provided port in your preferred web browser.
+5. Open the provided link in your preferred web browser.
 
 ## Repository Structure
 
