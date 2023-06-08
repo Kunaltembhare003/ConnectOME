@@ -39,7 +39,7 @@ The main objective of this study is to predict the survival outcomes of breast c
 ## Model Architecture
 The CNN model architecture consists of several layers designed to extract features from the input images and classify them into different classes. The model architecture may vary based on the specific requirements of your project. Refer to the code documentation for details on the model architecture implemented in this project. <br>
 <br>
-![Alt text](image\Model_Architecture.jpg)
+![Alt text](https://github.com/Kunaltembhare003/ConnectOME/blob/main/image/Model_Architecture.jpg)
 
 
 
